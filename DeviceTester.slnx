@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <BuildType Name="Debug" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="DeviceTester.vcxproj" Id="1596302c-1e7b-4280-a05c-e350581c5452" />
+</Solution>
